@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Linh à!',
-    introDesc: `Khi cậu bước đến đã phá bỏ đinh luật của nemton
+    introDesc: `Khi cậu bước đến đã phá bỏ đinh luật của Newton
     Vì vạn vật không còn hấp dẫn`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
